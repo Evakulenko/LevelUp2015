@@ -7,6 +7,7 @@ public class Car extends Vehicle implements Movable {
 
     @Override
     public void back() {
+        System.out.println("go back!!!");
     }
 
     @Override
