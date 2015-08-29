@@ -1,4 +1,4 @@
-package Task2;
+package Lecture3.Task2;
 
 /**
  * Created by Евгений on 29.08.2015.
